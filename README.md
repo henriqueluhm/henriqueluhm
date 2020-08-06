@@ -21,7 +21,8 @@
 
 - I’m currently looking for a job. 🔎
 - I’m currently learning everything. 📚
-- Goal: Become a full stack developer. 🥅
+- Goal: become a full stack developer. 🥅
+
 
 ---
 
