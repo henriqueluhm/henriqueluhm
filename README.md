@@ -12,7 +12,7 @@
 <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="22" height="22" alt="React"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="22" height="22" alt="Node"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="22" height="22" alt="SQL"  />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="22" height="22" alt="MySQL"  />
+<img src="https://w7.pngwing.com/pngs/508/195/png-transparent-sqlite-relational-database-management-system-redis-square-icon-blue-logo-electric-blue.png" width="22" height="22" alt="MySQL"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="22" height="22" alt="Git"  />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="22" height="22" alt="GitHub"  />
 <img
