@@ -9,17 +9,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="22" height="22" alt="CSS3"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="22" height="22" alt="JavaScript"  />
 <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/php-512.png" width="22" height ="22" alt="PHP" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="22" height="22" alt="SASS"  />
 <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="22" height="22" alt="React"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="22" height="22" alt="Node"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="22" height="22" alt="SQL"  />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="22" height="22" alt="SQLite"  />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="22" height="22" alt="Git"  />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="22" height="22" alt="GitHub"  />
-<img
-src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png"
-width="22" height="22" alt="Bootstrap" />
-</p>
 
 ---
 
