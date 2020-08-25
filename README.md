@@ -18,7 +18,7 @@
 
 ---
 
-- I’m currently looking for a job. 🔎
+- Currently working at Vamilly. 🔎
 - I’m currently learning everything. 📚
 - Goal: become a full stack developer. 🥅
 
