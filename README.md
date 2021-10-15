@@ -9,11 +9,8 @@
   
 ---
 
-<p align="center"><strong>Currently:</strong></p>
 
 - Studying ReactJS with TypeScript for front-end web development.
 - Getting my bachelor's degree in Software Engineering.
-- Searching for a job. 🔎
-- Goal: become a full stack developer. 🥅
 
 ---
